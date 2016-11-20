@@ -8,3 +8,5 @@ Edit3 from remote and more edits
 edit 4 from remp
 
 edit 5 from git
+
+edit 6 from local
